@@ -16,7 +16,7 @@
 #### Exercicios 2
 
 ##### Primeiro Exercicio
-<p>Neste exercicio foi pedido uma entrada e o programa verifica se o número fornecido é par ou impar. <a href="exercicio1.py">Clique aqui para ver.</a></p>
+<p>Neste exercicio foi pedido uma entrada e o programa verifica se o número fornecido é par ou impar. <a href="ExerciciosPython2/ExerciciosPython2-main/exercicio1.py">Clique aqui para ver.</a></p>
 
 ##### Segundo Exercicio
 <p>Neste exercicio foi pedido uma entrada para a sua idade, e o programa te caracteriza entre uma das categorias.</p>
@@ -25,27 +25,27 @@
   <li>Adolescente</li>
   <li>Adulto</li>
 </ul>
-<p>Caso uma idade negativa seja introduzida dará "idade inválida". <a href="Exercicio2.py">Clique aqui para ver</a></p>
+<p>Caso uma idade negativa seja introduzida dará "idade inválida". <a href="ExerciciosPython2/ExerciciosPython2-main/Exercicio2.py">Clique aqui para ver</a></p>
 
 ##### Terceiro Exercicio
-<p>Aqui foi pedido uma comparação com entrada de nome e senha, a qual se entrar aparece a mensagem: "senha aceita, bem-vindo {nome}!" caso contrário, senha inválida, o nome a ser aceito está Felype e a senha é senha. <a href="Exercicio3.py">Clique aqui para ver.</a></p>
+<p>Aqui foi pedido uma comparação com entrada de nome e senha, a qual se entrar aparece a mensagem: "senha aceita, bem-vindo {nome}!" caso contrário, senha inválida, o nome a ser aceito está Felype e a senha é senha. <a href="ExerciciosPython2/ExerciciosPython2-main/Exercicio3.py">Clique aqui para ver.</a></p>
 
 #### Terceira lista de Exercicios
 
 ##### Primeiro Exercicio
-<p>Este exercicio pediu para que fosse criado 3 listas diferentes, duas de inteiros e uma de string, no exercicio não dizia se era para ser printado, mas acrescentei isso. <a href="Exercicio1.py">Clique aqui para ver.</a></p>
+<p>Este exercicio pediu para que fosse criado 3 listas diferentes, duas de inteiros e uma de string, no exercicio não dizia se era para ser printado, mas acrescentei isso. <a href="ExerciciosPython3/ExerciciosPython3-main/Exercicio1.py">Clique aqui para ver.</a></p>
 
 ##### Segundo Exercicio
-<p>Este exercicio pediu apenas para criar uma lista e imprimi-la utilizando o laço for. <a href="Exercicio2.py">Clique aqui para ver.</a></p>
+<p>Este exercicio pediu apenas para criar uma lista e imprimi-la utilizando o laço for. <a href="ExerciciosPython3/ExerciciosPython3-main/Exercicio2.py">Clique aqui para ver.</a></p>
 
 ##### Terceiro Exercicio
-<p>Este exercicio pediu a soma de números impares de 1 à 10, o resultado foi conferido em um teste de mesa, a qual mostrou que realmente deve-se dar 25. <a href="Exercicio3.py">Clique aqui para ver.</a></p>
+<p>Este exercicio pediu a soma de números impares de 1 à 10, o resultado foi conferido em um teste de mesa, a qual mostrou que realmente deve-se dar 25. <a href="ExerciciosPython3/ExerciciosPython3-main/Exercicio3.py">Clique aqui para ver.</a></p>
 
 ##### Quarto Exercicio
-<p>Este exercicio pediu a impressão de números de 1 à 10 em ordem decrescente. <a href="Exercicio4.py">Clique aqui para ver.</a></p>
+<p>Este exercicio pediu a impressão de números de 1 à 10 em ordem decrescente. <a href="ExerciciosPython3/ExerciciosPython3-main/Exercicio4.py">Clique aqui para ver.</a></p>
 
 ##### Quinto Exercicio
-<p>Este exercicio pedia para que o usuário entrasse com um número inteiro, e fosse mostrado a tabuada deste número. <a href="Exercicio5.py">Clique aqui para ver.</a></p>
+<p>Este exercicio pedia para que o usuário entrasse com um número inteiro, e fosse mostrado a tabuada deste número. <a href="ExerciciosPython3/ExerciciosPython3-main/Exercicio5.py">Clique aqui para ver.</a></p>
 
 ##### Sexto Exercicio
-<p>Crie uma lista de números, e soma os seus valores, utilize o bloco try-except para evitar erros. <a href="Exercicio6.py">Clique aqui para ver.</a></p>
+<p>Crie uma lista de números, e soma os seus valores, utilize o bloco try-except para evitar erros. <a href="ExerciciosPython3/ExerciciosPython3-main/Exercicio6.py">Clique aqui para ver.</a></p>
